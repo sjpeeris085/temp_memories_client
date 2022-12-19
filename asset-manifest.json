@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/temp_memories_client/static/css/main.82eaf804.chunk.css",
+    "main.js": "/github.io/temp_memories_client/static/js/main.815a4d0c.chunk.js",
+    "main.js.map": "/github.io/temp_memories_client/static/js/main.815a4d0c.chunk.js.map",
+    "runtime-main.js": "/github.io/temp_memories_client/static/js/runtime-main.b366dcba.js",
+    "runtime-main.js.map": "/github.io/temp_memories_client/static/js/runtime-main.b366dcba.js.map",
+    "static/js/2.6fff33d9.chunk.js": "/github.io/temp_memories_client/static/js/2.6fff33d9.chunk.js",
+    "static/js/2.6fff33d9.chunk.js.map": "/github.io/temp_memories_client/static/js/2.6fff33d9.chunk.js.map",
+    "index.html": "/github.io/temp_memories_client/index.html",
+    "precache-manifest.9938dcb956ff7fe91500e9f16fe43161.js": "/github.io/temp_memories_client/precache-manifest.9938dcb956ff7fe91500e9f16fe43161.js",
+    "service-worker.js": "/github.io/temp_memories_client/service-worker.js",
+    "static/css/main.82eaf804.chunk.css.map": "/github.io/temp_memories_client/static/css/main.82eaf804.chunk.css.map",
+    "static/js/2.6fff33d9.chunk.js.LICENSE.txt": "/github.io/temp_memories_client/static/js/2.6fff33d9.chunk.js.LICENSE.txt",
+    "static/js/main.815a4d0c.chunk.js.LICENSE.txt": "/github.io/temp_memories_client/static/js/main.815a4d0c.chunk.js.LICENSE.txt",
+    "static/media/memoriesLogo.png": "/github.io/temp_memories_client/static/media/memoriesLogo.dc8bbfe3.png",
+    "static/media/memoriesText.png": "/github.io/temp_memories_client/static/media/memoriesText.2b89c5fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b366dcba.js",
+    "static/js/2.6fff33d9.chunk.js",
+    "static/css/main.82eaf804.chunk.css",
+    "static/js/main.815a4d0c.chunk.js"
+  ]
+}
